@@ -1,0 +1,5 @@
+{
+  "name": "Brew Haven",
+  "description": "A premium, modern, and interactive coffee shop experience with online ordering, reservations, and more.",
+  "requestFramePermissions": ["geolocation"]
+}
